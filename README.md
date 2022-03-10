@@ -1,0 +1,4 @@
+- Wipro
+- Mphasis
+- Amazon
+- Microsoft
